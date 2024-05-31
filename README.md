@@ -5,7 +5,7 @@ Automation testing menggunakan Katalon, Order item on https://www.saucedemo.com/
 
 ## Please select the test case "Full Navigation" for the automation testing until checkout page
 
-Please refer to this proofen testing [video](https://intip.in/LinkVideoHashMicroTitoQA) on UI Automation testing on [SwagLabs](https://www.saucedemo.com/) 
+Please refer to my proofen testing [video](https://intip.in/LinkVideoHashMicroTitoQA) on UI Automation testing on [SwagLabs](https://www.saucedemo.com/) 
 
 ## Defect Found
 1. User can't added same item to the shopping cart
