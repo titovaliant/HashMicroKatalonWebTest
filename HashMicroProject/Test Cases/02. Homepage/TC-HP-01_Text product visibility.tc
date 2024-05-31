@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the text - product name, price and product description are clearly visible</description>
+   <name>TC-HP-01_Text product visibility</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab1387c1-c208-4fe5-9e72-fdb85ff67b92</testCaseGuid>
+</TestCaseEntity>

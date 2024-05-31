@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>a. Login ke homepage
+b. Klik &quot;Add to cart&quot; pada suatu barang
+c. Klik icon &quot;Cart&quot; untuk redirect ke page Cart
+d. Klik button &quot;Checkout&quot;</description>
+   <name>Full Navigation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0a0b4cc2-2207-4316-be1d-6536eb1a31e1</testCaseGuid>
+</TestCaseEntity>

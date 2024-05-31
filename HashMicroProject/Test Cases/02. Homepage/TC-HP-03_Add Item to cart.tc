@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if a user could add product to Bag shopping cart</description>
+   <name>TC-HP-03_Add Item to cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>89f7e500-85d8-414a-a7a1-54d9fbd1eef4</testCaseGuid>
+</TestCaseEntity>

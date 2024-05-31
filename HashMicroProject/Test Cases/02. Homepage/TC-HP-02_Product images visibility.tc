@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that all the images - product and banner are clearly visible</description>
+   <name>TC-HP-02_Product images visibility</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>81ddab30-938b-4fce-942e-4b510235af72</testCaseGuid>
+</TestCaseEntity>
